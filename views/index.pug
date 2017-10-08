@@ -1,0 +1,32 @@
+doctype html
+html(lang="en")
+	
+	head
+		title Task List | Home
+		link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+
+		style
+			include includes/css/style.css
+		
+		script(src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous")
+	
+	body
+		
+		div(class='row' id='row-1')
+			div(class='col-sm-3 col-xs-2')
+			div(class='col-sm-6 col-xs-8')
+				h3 Add a New Task
+				form(id='add-task-form')
+					input(type='text' id='task-name' placeholder='Task Name')
+					//label(for='task-description') Task Description
+					//input(type='text' id='task-description')
+					button(type='submit') Submit
+
+		div(class='row' id='row-2')
+			div(class='col-sm-3 col-xs-2')
+			div(class='col-sm-6 col-xs-8')
+				h3 Current Tasks
+				ul(id='task-list')
+
+		script
+			include includes/js/scripts.js

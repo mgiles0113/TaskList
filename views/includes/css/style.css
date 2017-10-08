@@ -1,0 +1,71 @@
+/*
+	#F8B195
+	#F67280
+	#C06C84
+	#6C5B7B
+	#355C7D
+*/
+body {
+	background: #C06C84;
+	color: white;
+}
+
+ul {
+	padding: 0px;
+}
+
+
+input {
+	color: black;
+}
+
+button {
+	border: none;
+	background: #6C5B7B;
+}
+
+button:hover {
+	background: #F67280;
+}
+
+li {
+	list-style: none;
+	display: block;
+	background: #355C7D;
+	margin: 4px auto;
+	padding: 3px;
+	display: inline-block;
+	width: 100%;
+}
+
+.task-name {
+	text-align: left;
+	width: 90%;
+	float: left;
+	display: inline-block;
+}
+
+.task-x {
+	width: 10%;
+	float: right;
+	display: inline-block;
+}
+
+.task-x:hover {
+	background: red;
+	cursor: pointer;
+}
+
+#row-1 {
+	text-align: center;
+}
+
+#row-2 {
+	text-align: center;
+}
+
+#add-task-form * {
+	display: block;
+	width: 100%;
+	margin-top: 8px;
+}
