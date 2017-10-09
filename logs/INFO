@@ -1,0 +1,395 @@
+INFO | 2017-10-08 16:41:21 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-08 16:41:21 | SYSTEM | Application started on localhost: 3000
+INFO | 2017-10-08 16:45:00 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-08 16:45:00 | SYSTEM | Application started on localhost: 3000
+INFO | 2017-10-08 23:54:26 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-08 23:54:26 | SYSTEM | Application started on localhost: 3000
+INFO | 2017-10-08 23:54:42 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-08 23:54:42 | SYSTEM | Application started on localhost: 3000
+INFO | 2017-10-09 00:01:18 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:01:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:01:59 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:01:59 | SYSTEM | Application started on localhost: 3001
+INFO | 2017-10-09 00:02:59 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:02:59 | SYSTEM | Application started on localhost: 3001
+INFO | 2017-10-09 00:08:41 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:09:41 | HTTP REQUEST | GET /
+INFO | 2017-10-09 00:11:02 | HTTP REQUEST | GET /
+INFO | 2017-10-09 00:11:02 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 00:11:02 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 00:11:50 | HTTP REQUEST | GET /
+INFO | 2017-10-09 00:11:50 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 00:11:50 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 00:11:52 | HTTP REQUEST | GET /
+INFO | 2017-10-09 00:11:52 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 00:11:52 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 00:13:29 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:29 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:30 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:30 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:33 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:33 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:34 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:34 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:34 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:13:35 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:28 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:28 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:28 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:29 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:29 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:30 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:30 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:30 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:31 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:32 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:33 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:15:33 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:50 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:50 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:51 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:51 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:51 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:52 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:52 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:52 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:53 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:53 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:54 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:54 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:54 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:55 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:55 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:16:55 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 00:17:09 | HTTP REQUEST | GET /
+INFO | 2017-10-09 00:17:09 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 00:17:09 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:04:53 | MODULE_CUSTOM | FileLog, Constructing new FileLog object
+INFO | 2017-10-09 10:04:53 | SYSTEM | Application started on localhost: 3000
+INFO | 2017-10-09 10:04:56 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:04:57 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:04:57 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:05:16 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:05:16 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:05:16 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:05:46 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:05:46 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:05:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:06:19 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:06:19 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:06:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:06:23 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:06:23 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:06:25 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:06:25 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:06:26 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:06:26 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:06:26 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:06:26 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:07:16 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:07:16 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:19 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:19 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:08:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:21 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:21 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:28 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:08:29 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:29 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:31 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:31 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:31 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:31 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:32 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:32 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:32 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:32 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:33 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:33 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:33 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:33 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:37 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:37 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:37 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:37 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:37 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:37 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:37 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:38 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:38 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:38 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:40 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:40 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:40 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:40 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:41 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:41 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:41 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:41 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:44 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:08:44 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:44 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:44 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:45 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:45 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:45 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:45 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:46 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:46 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:46 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:46 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:47 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:47 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:48 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:48 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:48 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:48 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:49 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:49 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:49 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:08:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:08:49 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:08:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:09:11 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:09:11 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:09:11 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:09:11 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:48:29 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:48:29 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:48:49 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:48:49 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:48:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:49:30 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:49:30 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:49:30 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:49:49 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:49:49 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:49:49 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:49:57 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:49:57 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:49:57 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:49:57 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:00 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:50:00 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:00 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:01 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:11 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:50:11 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:11 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:11 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:13 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:50:13 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:13 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:13 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:13 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:39 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 10:50:39 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:39 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:39 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:44 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:44 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:50:44 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:50:44 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:50:44 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:51:30 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:51:30 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:51:30 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:51:30 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:52:01 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:52:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:52:01 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:52:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:52:35 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:52:35 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:52:35 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:52:35 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:53:35 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:53:35 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:53:35 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:53:35 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:53:36 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:53:36 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:53:36 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:53:36 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:53:36 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:01 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:54:01 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:01 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:02 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:54:02 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:02 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:02 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:02 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:19 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 10:54:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:19 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:20 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:54:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:20 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:20 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:23 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:54:23 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:23 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:23 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:23 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:41 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:54:41 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:41 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:54:41 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:54:41 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:59:29 | HTTP REQUEST | GET /
+INFO | 2017-10-09 10:59:29 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:59:29 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 10:59:29 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 10:59:29 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 11:13:23 | HTTP REQUEST | GET /
+INFO | 2017-10-09 11:13:23 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 11:13:23 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 11:53:16 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 11:53:16 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 11:53:16 | HTTP REQUEST | GET /
+INFO | 2017-10-09 12:09:56 | HTTP REQUEST | GET /
+INFO | 2017-10-09 12:09:56 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:09:56 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:09:56 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:09:56 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:10:01 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 12:10:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:10:05 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 12:10:05 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:10:05 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:10:05 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:31:46 | HTTP REQUEST | GET /
+INFO | 2017-10-09 12:31:46 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:31:46 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:32:19 | HTTP REQUEST | GET /
+INFO | 2017-10-09 12:32:19 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:32:19 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:32:24 | HTTP REQUEST | GET /
+INFO | 2017-10-09 12:32:24 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:32:24 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 12:32:24 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 12:32:24 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:06:21 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:06:21 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:06:21 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:06:21 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:41:55 | HTTP REQUEST | GET /
+INFO | 2017-10-09 13:41:55 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:41:55 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:42:04 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 13:42:04 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:42:04 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:42:04 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:43:03 | HTTP REQUEST | GET /
+INFO | 2017-10-09 13:43:03 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:43:03 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:09 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:46:09 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:09 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:46:09 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:21 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:46:21 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:21 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:46:21 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:22 | HTTP REQUEST | DELETE /task
+INFO | 2017-10-09 13:46:22 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:22 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:46:22 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:31 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:46:31 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:31 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:46:31 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:39 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:46:39 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:46:39 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:46:39 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:47:01 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:47:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:47:01 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:47:01 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:47:09 | HTTP REQUEST | POST /task
+INFO | 2017-10-09 13:47:09 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
+INFO | 2017-10-09 13:47:09 | HTTP REQUEST | GET /task
+INFO | 2017-10-09 13:47:09 | MODULE_CUSTOM | TaskManager, Constructing a TaskManager object
