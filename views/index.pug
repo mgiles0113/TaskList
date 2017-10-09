@@ -2,9 +2,10 @@ doctype html
 html(lang="en")
 	
 	head
+		meta(charset="utf-8")
+		meta(name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no")
 		title Task List | Home
 		link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
-
 		style
 			include includes/css/style.css
 		
@@ -15,7 +16,7 @@ html(lang="en")
 		div(class='row' id='row-1')
 			div(class='col-sm-3 col-xs-2')
 			div(class='col-sm-6 col-xs-8')
-				h3 Add a New Task
+				h2 Add a New Task
 				form(id='add-task-form')
 					input(type='text' id='task-name' placeholder='Task Name')
 					//label(for='task-description') Task Description
@@ -23,9 +24,9 @@ html(lang="en")
 					button(type='submit') Submit
 
 		div(class='row' id='row-2')
-			div(class='col-sm-3 col-xs-2')
-			div(class='col-sm-6 col-xs-8')
-				h3 Current Tasks
+			div(class='col-sm-3 col-xs-1')
+			div(class='col-sm-6 col-xs-10')
+				h2 Current Tasks
 				ul(id='task-list')
 
 		script

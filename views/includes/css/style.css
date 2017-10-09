@@ -33,14 +33,15 @@ li {
 	display: block;
 	background: #355C7D;
 	margin: 4px auto;
-	padding: 3px;
+	padding: 17px;
 	display: inline-block;
 	width: 100%;
+	font-size: 1.7em;
 }
 
 .task-name {
 	text-align: left;
-	width: 90%;
+	width: 80%;
 	float: left;
 	display: inline-block;
 }
@@ -49,10 +50,12 @@ li {
 	width: 10%;
 	float: right;
 	display: inline-block;
+	background: red;
 }
 
 .task-x:hover {
-	background: red;
+	background: white;
+	color: red;
 	cursor: pointer;
 }
 
@@ -68,4 +71,16 @@ li {
 	display: block;
 	width: 100%;
 	margin-top: 8px;
+	font-size: 1.7em;
+}
+
+#add-task-form input {
+	padding: 10px 17px;
+	background: #F8B195;
+	border: none;
+	color: white;
+}
+
+#add-task-form input::placeholder {
+	color: #555559;
 }
